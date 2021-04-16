@@ -35,14 +35,14 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 ## Area of interests 
 
 ### Quantitative Finance
-    ### Financial modelling 
-    ### Derivatives Pricing
-    ### Calibration
-    ### Yield Curve construction (Interpolation and stochastic process)
+    Financial modelling 
+    Derivatives Pricing
+    Calibration
+    Yield Curve construction (Interpolation and stochastic process)
 ### Portfolio Optimization
-    ### CVaR Minimisation
-    ### Markovitz Based modelling
-    ### Beta Zero
+    CVaR Minimisation
+    Markovitz Based modelling
+    Beta Zero
 ### Econometrics
     Linear regression
     Multiple linear regression
