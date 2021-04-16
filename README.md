@@ -2,7 +2,8 @@
  
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
-Welcome on my GitHub !
+##Welcome on my GitHub !
+###I am @Antoine, a Finance and Computer Science passionate which has evoluated as different position in the finance sector. 
 
 <!-- Actual text -->
 
