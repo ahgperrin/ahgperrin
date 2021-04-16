@@ -6,4 +6,8 @@ Welcome on my GitHub !
 
 ## Weapons &#127993;
 
-![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
