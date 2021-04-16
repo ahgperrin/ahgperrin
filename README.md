@@ -3,9 +3,21 @@
 # HI THERE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Welcome on my GitHub !
-You can find out more on my [![LinkedIn][3.2]][3].
-[2]: https://www.linkedin.com/in/antoine-p-b800a5131/
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+
 ## Weapons &#127993;
 
 ![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
