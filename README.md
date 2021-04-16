@@ -3,10 +3,10 @@
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
 ## Welcome on my GitHub !
-<IMG src="https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg" alt="I am " align=right>
+<IMG src="https://github.com/ahgperrin/ahgperrin/blob/main/Screen%20Shot%202021-04-16%20at%201.00.27%20PM.png" alt="I am " align=right>
 <p>I am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
 <div style="clear:both"></div>
-
+## Area of interests 
 
 <!-- Actual text -->
 
@@ -30,6 +30,6 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 
-## Area of interests  <div align="right"><img src=https://github.com/ahgperrin/ahgperrin/blob/main/fixing-machinemen.gif></div>
+
 
 
