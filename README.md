@@ -1,12 +1,12 @@
 ![c0](https://user-images.githubusercontent.com/78447751/115000536-24408c80-9ea3-11eb-9443-9d260fca4e4d.jpg)
  
-# HI THERE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
 Welcome on my GitHub !
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1].
+You can find out more about me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
