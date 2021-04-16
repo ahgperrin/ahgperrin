@@ -3,8 +3,7 @@
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
 ## Welcome on my GitHub !
-
-<p style="float:right"><img src="https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg" /></p>
+<IMG src="https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg"alt="Le France" align=left>
 <p>I am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
 <div style="clear:both"></div>
 
