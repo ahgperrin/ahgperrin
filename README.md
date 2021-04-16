@@ -18,7 +18,7 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 
 ## Weapons &#127993;
 
-![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=https://github.com/ahgperrin/ahgperrin/blob/main/cplusplus.svg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
