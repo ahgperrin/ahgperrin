@@ -4,8 +4,11 @@
 
 Welcome on my GitHub !
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
-[2]: https://www.linkedin.com/in/your_contact_info
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
+
 ## Weapons &#127993;
 
 ![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
