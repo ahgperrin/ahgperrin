@@ -5,7 +5,7 @@
 ## Welcome on my GitHub !
 <IMG src="https://github.com/ahgperrin/ahgperrin/blob/main/Screen%20Shot%202021-04-16%20at%201.00.27%20PM.png" alt="I am " align=right>
 <p>I am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
-<div style="clear:both"></div>
+
 ## Area of interests 
 
 <!-- Actual text -->
