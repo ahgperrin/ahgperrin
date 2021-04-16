@@ -10,7 +10,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/ahgperrin/ahgperrin/blob/main/174857-2.png
+[1.2]: https://github.com/ahgperrin/ahgperrin/blob/main/174857.png
 
 <!-- Links to your social media accounts -->
 
