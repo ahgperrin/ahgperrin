@@ -6,7 +6,7 @@
 
 
 <p style="float:right"><img src=https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg /></p>
-<pI am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
+<p>I am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
 <p>blabla</p>
 
 <!-- Actual text -->
