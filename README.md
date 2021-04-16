@@ -1,4 +1,4 @@
-![c0](https://user-images.githubusercontent.com/78447751/115000536-24408c80-9ea3-11eb-9443-9d260fca4e4d.jpg)
+![c0](https://github.com/ahgperrin/ahgperrin/blob/main/Screen%20Shot%202021-04-16%20at%2012.44.08%20PM.png)
  
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
