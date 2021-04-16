@@ -27,6 +27,6 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 
-                                                                           <img src=https://github.com/ahgperrin/ahgperrin/blob/main/fixing-machinemen.gif>
+## Area of interests                                                         <img src=https://github.com/ahgperrin/ahgperrin/blob/main/fixing-machinemen.gif>
 
 
