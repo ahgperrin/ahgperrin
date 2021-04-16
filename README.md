@@ -17,7 +17,7 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 
 [1]: https://www.linkedin.com/in/antoine-p-b800a5131/
 
-## Weapons &#127993;
+## Favorite Weapons &#127993;
 
 ![](https://img.shields.io/badge/OS-MACOS-informational?style=flat&logo=https://github.com/ahgperrin/ahgperrin/blob/main/&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
