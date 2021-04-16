@@ -3,10 +3,12 @@
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
 ## Welcome on my GitHub !
-I am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry. <div align="float-right"><img src=https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg></div>
+
+
 <p style="float:right"><img src=https://github.com/ahgperrin/ahgperrin/blob/main/IMG_0287.jpg /></p>
-<p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+<pI am Antoine, a Finance and Computer Science passionatewho has evoluated as different positions in finance industry.</p>
 <p>blabla</p>
+
 <!-- Actual text -->
 
 You can find out more about me on [![LinkedIn][1.2]][1].
