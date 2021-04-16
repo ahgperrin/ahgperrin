@@ -49,7 +49,7 @@ You can find out more about me on [![LinkedIn][1.2]][1].
     GARCH / ARIMA for time series modelling
     Fitting and performance capabilities
 ### Trading Algorithms
-    Strategy construction based on Economics, quantitative even econometrics parameters
+    Strategy construction based on Economics, quantitative <br> even econometrics parameters
     Implementation from data analysis to market descision
     Backtesting
 ### Business management in financial context:
