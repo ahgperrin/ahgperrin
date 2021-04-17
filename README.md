@@ -29,7 +29,7 @@ You can find out more about me on [![LinkedIn][1.2]][1].
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Others-Smile-informational?style=flat&logo=<#000000>&logoColor=white&color=2bbc8a)
 
 
 ## Area of interests 
@@ -38,7 +38,8 @@ You can find out more about me on [![LinkedIn][1.2]][1].
     Financial modelling 
     Derivatives Pricing
     Calibration
-    Yield Curve construction (Interpolation and stochastic process)
+    Yield Curve construction (Interpolation and 
+    stochastic process)
 ### Portfolio Optimization
     CVaR Minimisation
     Markovitz Based modelling
