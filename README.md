@@ -27,7 +27,7 @@ Recently built my own SaaS with my co-founder: **[@Analystock.ai](https://analys
 
 ### Python, C++, & Quantitative Finance
 - Expertise in Python and C++ for building quantitative models, developing algorithmic trading strategies, and performing financial data analysis. 
-- GitHub Projects: [My Repositories](https://github.com/ahgperrin)
+- GitHub Projects: [My Repositories](https://github.com/ahgperrin?tab=repositories)
 
 ### Full Stack Development
 - Extensive experience as a Full Stack Engineer specializing in Django for backend development, combined with HTML/CSS for frontend, building scalable, high-performance web applications integrated with financial systems.
@@ -58,23 +58,22 @@ Recently built my own SaaS with my co-founder: **[@Analystock.ai](https://analys
 
 ## 🌟 Featured Projects
 
-### [📂 Analystock.ai](https://github.com/YourGitHubUsername/Project1)
+### [📂 Analystock.ai](https://analystock.ai)
 _Revolutionary SaaS platform for financial insights, built using Django and PostgreSQL._
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### [📂 Portfolio Manager Toolkit](https://github.com/YourGitHubUsername/Project2)
-_A comprehensive toolkit for portfolio management and quantitative analysis._
+### [📂 PyCruve](https://github.com/ahgperrin/PyCurve)
+_A comprehensive toolkit for yield curve analysis._
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-perrin-b800a5131/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://YourPortfolio.com)
 
