@@ -1,4 +1,6 @@
-![c0](https://github.com/ahgperrin/ahgperrin/blob/main/Antoine_Perrin.png)
+<p align="center">
+  <img src="https://github.com/ahgperrin/ahgperrin/blob/main/Antoine_Perrin.png" alt="Profile Image" style="border-radius: 15px; margin-top: 5vh;" width="200">
+</p>
  
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
 
