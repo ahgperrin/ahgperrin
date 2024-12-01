@@ -15,7 +15,7 @@ Recently built my own SaaS with my co-founder: **[@Analystock.ai](https://analys
 - 🌱 I’m currently learning **Advanced SaaS Scalability Techniques**
 - 🔭 I’m working on **@Analystock.ai**, a cutting-edge SaaS platform for financial insights.
 - 💬 Ask me about **Portfolio Management, Quantitative Finance, Python, Django, and Full Stack Development**
-- 📫 How to reach me: [ahgperrin@example.com](mailto:antoine.perrin@analystock.ai)
+- 📫 How to reach me: [Antoine](mailto:antoine.perrin@analystock.ai)
 - 🌍 **International Mobility**: Open to global opportunities, delivering high-impact solutions across markets.
 
 ---
@@ -64,7 +64,7 @@ _Revolutionary SaaS platform for financial insights, built using Django and Post
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### [📂 PyCruve](https://github.com/ahgperrin/PyCurve)
+### [📂 PyCurve](https://github.com/ahgperrin/PyCurve)
 _A comprehensive toolkit for yield curve analysis._
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
