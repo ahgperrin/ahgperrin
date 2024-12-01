@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahgperrin/ahgperrin/blob/main/Antoine_Perrin.png" alt="Profile Image" style="border-radius: 5vh;">
+  <img src="https://github.com/ahgperrin/ahgperrin/blob/main/Antoine_Perrin.png" alt="Profile Image" style="border-radius: 50%;">
 </p>
  
 # HI THERE <img src="https://github.com/ahgperrin/ahgperrin/blob/main/tenor.gif" width="30px">
